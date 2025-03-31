@@ -20,7 +20,7 @@ SQL-запросы: Запросы, которые решают поставле
 Каждая из представленных баз данных сопровождается скриптом, который создает таблицы базы данных и заполняет их тестовыми данными.
 
 ## 📂 Содержимое репозитория:
-
+```
 repo
 │
 ├── vehicles/
@@ -50,9 +50,12 @@ repo
     ├── T4_insert_data.sql
     ├── T4_task1.sql
     ├── T4_task2.sql
-    └── T4_task3.sql
+    └── T4_task3.sql 
+    ```
 
-    sql-scripts-repo/ │ ├── vehicles/ │ ├── T1_create_table.sql │ ├── T1_insert_data.sql │ ├── T1_task1.sql │ └── T1_task2.sql │ ├── car_races/ │ ├── T2_create_table.sql │ ├── T2_insert_data.sql │ ├── T2_task1.sql │ ├── T2_task2.sql │ ├── T2_task3.sql │ ├── T2_task4.sql │ └── T2_task5.sql │ ├── bookings/ │ ├── T3_create_table.sql │ ├── T3_insert_data.sql │ ├── T3_task1.sql │ ├── T3_task2.sql │ └── T3_task3.sql │ └── organization/ ├── T4_create_table.sql ├── T4_insert_data.sql ├── T4_task1.sql ├── T4_task2.sql └── T4_task3.sql
+    sql-scripts-repo/
+    │ ├── vehicles/
+    │ ├── T1_create_table.sql │ ├── T1_insert_data.sql │ ├── T1_task1.sql │ └── T1_task2.sql │ ├── car_races/ │ ├── T2_create_table.sql │ ├── T2_insert_data.sql │ ├── T2_task1.sql │ ├── T2_task2.sql │ ├── T2_task3.sql │ ├── T2_task4.sql │ └── T2_task5.sql │ ├── bookings/ │ ├── T3_create_table.sql │ ├── T3_insert_data.sql │ ├── T3_task1.sql │ ├── T3_task2.sql │ └── T3_task3.sql │ └── organization/ ├── T4_create_table.sql ├── T4_insert_data.sql ├── T4_task1.sql ├── T4_task2.sql └── T4_task3.sql
 
 
 
